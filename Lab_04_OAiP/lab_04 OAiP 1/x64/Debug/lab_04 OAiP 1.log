@@ -1,0 +1,6 @@
+﻿  lab_04 OAiP 1.cpp
+C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_04 OAiP\lab_04 OAiP 1\lab_04 OAiP 1.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_04 OAiP\lab_04 OAiP 1\lab_04 OAiP 1.cpp(14,10): error C2039: "setw": не является членом "std::basic_ostream<char,std::char_traits<char>>".
+      C:\Program Files\Microsoft Visual Studio\18\Community\VC\Tools\MSVC\14.51.36231\include\__msvc_ostream.hpp(674,75):
+       см. объявление "std::basic_ostream<char,std::char_traits<char>>"
+  
