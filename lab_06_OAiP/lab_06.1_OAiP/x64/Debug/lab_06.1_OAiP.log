@@ -1,0 +1,4 @@
+﻿  lab_06.1_OAiP.cpp
+C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_06_OAiP\lab_06.1_OAiP\lab_06.1_OAiP.cpp(17,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_06_OAiP\lab_06.1_OAiP\lab_06.1_OAiP.cpp(20,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab_06.1_OAiP.vcxproj -> C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_06_OAiP\x64\Debug\lab_06.1_OAiP.exe
