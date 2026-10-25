@@ -1,0 +1,4 @@
+﻿  уыькаепнир.cpp
+C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_04 OAiP\уыькаепнир\уыькаепнир.cpp(2,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_04 OAiP\уыькаепнир\уыькаепнир.cpp(9,12): warning C4475: "printf": модификатор длины "t" невозможно использовать с символом поля типа "s" в описателе формата
+  уыькаепнир.vcxproj -> C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_04 OAiP\x64\Debug\уыькаепнир.exe
