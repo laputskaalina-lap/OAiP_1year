@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="87678/87678.vcxproj" Id="1f2d976a-f161-4954-9301-5676dd2ba639" />
+  <Project Path="lab_04 OAiP 1/lab_04 OAiP 1.vcxproj" Id="63333eb3-6c28-4833-9723-f8e7a1ab2d7e" />
+  <Project Path="lab_04 OAiP/lab_04 OAiP.vcxproj" Id="1386be83-4d87-44f0-9081-285fb29a5db2" />
+  <Project Path="уыькаепнир/уыькаепнир.vcxproj" Id="7f379afb-da03-4215-9b49-0a991d7ec9ad" />
+</Solution>

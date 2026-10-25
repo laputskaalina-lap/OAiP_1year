@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1svws.cpp
+C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_04 OAiP\ConsoleApplication1svws\ConsoleApplication1svws.cpp(3,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication1svws.vcxproj -> C:\Users\user\OneDrive\Desktop\Лаб. работы\ОАиП\lab_04 OAiP\x64\Debug\ConsoleApplication1svws.exe
