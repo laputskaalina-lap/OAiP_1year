@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ConsoleApplication1/ConsoleApplication1.vcxproj" Id="091322b4-3cb5-47c1-adbd-bf89f1326ca1" />
+  <Project Path="lab/lab.vcxproj" Id="daba08e2-1ee5-45cc-a3b3-b93f657ebceb" />
+  <Project Path="lab_06.1_OAiP/lab_06.1_OAiP.vcxproj" Id="fa021e0b-ac5c-483e-bb86-ca7cebc4f80f" />
+  <Project Path="lab_06_OAiP/lab_06_OAiP.vcxproj" Id="987d5a37-7ee3-41e4-a492-20f44ab92671" />
+</Solution>
